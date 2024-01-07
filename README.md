@@ -1,5 +1,3 @@
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/49058580/173588612-70de547b-f053-4a7e-bf63-90a239c7867b.png)
-  
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJH5&layout=compact)](https://github.com/LJH5/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJH5&show_icons=true&theme=dracula)
 </div>
