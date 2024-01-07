@@ -1,4 +1,9 @@
 <div align= "center">
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=LJH5&bg_color=180,00000000,8f8eec&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJH5&layout=compact&bg_color=180,00000000,8f8eec&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=SMART%20하고싶은%20나&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
@@ -25,9 +30,5 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=LJH5&bg_color=180,00000000,8f8eec&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJH5&layout=compact&bg_color=180,00000000,8f8eec&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+    
     
