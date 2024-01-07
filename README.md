@@ -32,14 +32,6 @@
     <br/>
   </div>
 </div>
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-  <div style="text-align: left;"> 
-    <a href=https://rough-reptile-c03.notion.site/Smart-d03f34bb307741f9822c577550d6fe81?pvs=4>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://rough-reptile-c03.notion.site/Smart-d03f34bb307741f9822c577550d6fe81?pvs=4"> 
-    </a>
-  </div>
-</div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
   
     
