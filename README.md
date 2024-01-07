@@ -9,9 +9,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=LJH5&show_icons=true&theme=material-palenight&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LJH5&theme=react-dark&bg_color=fff&line=58A6FF&color=58A6FF" width=94%/>
-  </a>
 </div>
 <div style="text-align: left;"> 
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
