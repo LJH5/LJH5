@@ -38,9 +38,6 @@
     <a href=https://rough-reptile-c03.notion.site/Smart-d03f34bb307741f9822c577550d6fe81?pvs=4>
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://rough-reptile-c03.notion.site/Smart-d03f34bb307741f9822c577550d6fe81?pvs=4"> 
     </a>
-    <a href=mailto:wnsgh0672@naver.com>
-      <img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white&link=mailto:wnsgh0672@naver.com" />
-    </a>
   </div>
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
