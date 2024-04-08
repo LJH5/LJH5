@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <br/><br/>
     <!-- AGV & AMR -->
-    <p><strong>IoT</strong></p>
+    <p><strong>AGV & AMR</strong></p>
     <img src="https://img.shields.io/badge/ros2-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
