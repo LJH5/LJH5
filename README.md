@@ -4,7 +4,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJH5&layout=donut&show_icons=true&theme=material-palenight&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  <img src="https://github-readme-stats.vercel.app/api?username=LJH5&show_icons=true&theme=material-palenight&bg_color=fff&icon_color=58A6FF&text_color=000&title_color=58A6FF&count_private=true" width=56% />
+
 </div>
 <div style="text-align: left;"> 
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
