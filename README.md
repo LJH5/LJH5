@@ -14,9 +14,10 @@
   <div style="margin: ; text-align: left;" "text-align: left;">
     <!-- Lenguage -->
     <p><strong>Lenguage</strong></p>
+    <img src="https://img.shields.io/badge/C-6DB33F?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    
     <br/><br/>
     <!-- AGV & AMR -->
     <p><strong>AGV & AMR</strong></p>
