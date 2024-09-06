@@ -1,6 +1,14 @@
 <div align= "center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=SMART%20하고싶은%20이준호입니다.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
+
+<div align="center">
+ <h3> 😊안녕하세요! <br> 
+  스마트팩토리에 관심이 많은 이준호입니다. <br>
+  빠르고 정확하게 제어되는 로봇을 만드는 것이 제 목표인 개발자입니다.
+ </h3>
+</div>
+
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Status </h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJH5&layout=compact" width=50%>
