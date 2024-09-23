@@ -1,9 +1,9 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=안녕하십니까! 이준호 입니다.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=안녕하십니까!%20%20이준호입니다.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div align="center">
- <h3> 😊안녕하세요! <br> 
+ <h3>
   펌웨어(임베디드) 개발에 집중하고 있는 개발자입니다. <br>
  </h3>
 </div>
